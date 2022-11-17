@@ -1,0 +1,15 @@
+c:\Users\taoma\source\repos\1651-lab\1651lab3\ex3\obj\Debug\net7.0\ex3.csproj.AssemblyReference.cache
+c:\Users\taoma\source\repos\1651-lab\1651lab3\ex3\obj\Debug\net7.0\ex3.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\taoma\source\repos\1651-lab\1651lab3\ex3\obj\Debug\net7.0\ex3.AssemblyInfoInputs.cache
+c:\Users\taoma\source\repos\1651-lab\1651lab3\ex3\obj\Debug\net7.0\ex3.AssemblyInfo.cs
+c:\Users\taoma\source\repos\1651-lab\1651lab3\ex3\obj\Debug\net7.0\ex3.csproj.CoreCompileInputs.cache
+c:\Users\taoma\source\repos\1651-lab\1651lab3\ex3\bin\Debug\net7.0\ex3.exe
+c:\Users\taoma\source\repos\1651-lab\1651lab3\ex3\bin\Debug\net7.0\ex3.deps.json
+c:\Users\taoma\source\repos\1651-lab\1651lab3\ex3\bin\Debug\net7.0\ex3.runtimeconfig.json
+c:\Users\taoma\source\repos\1651-lab\1651lab3\ex3\bin\Debug\net7.0\ex3.dll
+c:\Users\taoma\source\repos\1651-lab\1651lab3\ex3\bin\Debug\net7.0\ex3.pdb
+c:\Users\taoma\source\repos\1651-lab\1651lab3\ex3\obj\Debug\net7.0\ex3.dll
+c:\Users\taoma\source\repos\1651-lab\1651lab3\ex3\obj\Debug\net7.0\refint\ex3.dll
+c:\Users\taoma\source\repos\1651-lab\1651lab3\ex3\obj\Debug\net7.0\ex3.pdb
+c:\Users\taoma\source\repos\1651-lab\1651lab3\ex3\obj\Debug\net7.0\ex3.genruntimeconfig.cache
+c:\Users\taoma\source\repos\1651-lab\1651lab3\ex3\obj\Debug\net7.0\ref\ex3.dll

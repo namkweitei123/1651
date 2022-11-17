@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\taoma\\source\\repos\\1651-lab\\1651lab3\\ex3\\ex3.csproj": {}
+    "c:\\Users\\taoma\\OneDrive\\Documents\\GitHub\\1651\\1651lab3\\ex3\\ex3.csproj": {}
   },
   "projects": {
-    "c:\\Users\\taoma\\source\\repos\\1651-lab\\1651lab3\\ex3\\ex3.csproj": {
+    "c:\\Users\\taoma\\OneDrive\\Documents\\GitHub\\1651\\1651lab3\\ex3\\ex3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\taoma\\source\\repos\\1651-lab\\1651lab3\\ex3\\ex3.csproj",
+        "projectUniqueName": "c:\\Users\\taoma\\OneDrive\\Documents\\GitHub\\1651\\1651lab3\\ex3\\ex3.csproj",
         "projectName": "ex3",
-        "projectPath": "c:\\Users\\taoma\\source\\repos\\1651-lab\\1651lab3\\ex3\\ex3.csproj",
+        "projectPath": "c:\\Users\\taoma\\OneDrive\\Documents\\GitHub\\1651\\1651lab3\\ex3\\ex3.csproj",
         "packagesPath": "C:\\Users\\taoma\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\taoma\\source\\repos\\1651-lab\\1651lab3\\ex3\\obj\\",
+        "outputPath": "c:\\Users\\taoma\\OneDrive\\Documents\\GitHub\\1651\\1651lab3\\ex3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
